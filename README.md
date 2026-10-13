@@ -1,16 +1,16 @@
-## Hi there 👋
+# Charles Wang
 
-<!--
-**CharlesWang435/CharlesWang435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. student in Agricultural & Biological Engineering at Purdue (May 2027), building hardware for plant sensing and imaging.
 
-Here are some ideas to get you started:
+## What I'm working on
+- **LeafDoc** — a $50 smartphone leaf-imaging light box deployed in a Purdue–DARPA study (6,500+ captures), with an Android app that stitches frames and uses an LLM to score plant health.
+- **Leaf Cross-Section Microscope Imager** (M.S. thesis) — portable 100× corn-leaf imager with a tunable liquid lens; capture cut from 15 min to under 3 min.
+- **FluoroScan** — sub-$2,000 chlorophyll fluorescence imager (vs $20,000+ commercial units).
+- **LeafSpec-Multi** — portable multispectral tower; 400+ field scans for a co-authored peer-reviewed study.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python, OpenCV, Android (Kotlin, CameraX), LLM integration · Raspberry Pi, microcontrollers, MOSFET LED drivers, motor control · SolidWorks, 3D printing, multispectral imaging, microscopy
+
+## Links
+- Portfolio: https://charleswang435.github.io
+- LinkedIn: https://linkedin.com/in/wangcharles362
