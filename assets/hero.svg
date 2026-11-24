@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Charles Wang: hardware for plant sensing and imaging">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2a1a"/>
+      <stop offset="1" stop-color="#1f4d2c"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60AD5E" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#8bd17c" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <!-- stylised leaf blade with parallel venation (monocot / corn) -->
+  <g transform="translate(700 150) rotate(-12)">
+    <path d="M-60 0 C 60 -95, 360 -80, 470 0 C 360 80, 60 95, -60 0 Z" fill="url(#leaf)"/>
+    <path d="M-60 0 L 470 0" stroke="#cdeec4" stroke-opacity="0.7" stroke-width="3"/>
+    <g stroke="#cdeec4" stroke-opacity="0.25" stroke-width="1.5" fill="none">
+      <path d="M-30 -12 C 100 -48, 330 -44, 440 -6"/>
+      <path d="M-30 12 C 100 48, 330 44, 440 6"/>
+      <path d="M0 -26 C 120 -70, 320 -62, 410 -16"/>
+      <path d="M0 26 C 120 70, 320 62, 410 16"/>
+    </g>
+  </g>
+  <!-- scan grid hint -->
+  <g stroke="#ffffff" stroke-opacity="0.06">
+    <path d="M640 30 V270 M760 30 V270 M880 30 V270 M1000 30 V270 M1120 30 V270"/>
+  </g>
+  <text x="64" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff">Charles Wang</text>
+  <text x="66" y="174" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#cdeec4">Hardware for plant sensing &amp; imaging</text>
+  <text x="66" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#9fc79a">M.S. Agricultural &amp; Biological Engineering · Purdue</text>
+</svg>
