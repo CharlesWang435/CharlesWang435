@@ -32,8 +32,8 @@ M.S. student in Agricultural & Biological Engineering at Purdue (May 2027), buil
       <a href="https://github.com/CharlesWang435/LeafDocV2/tree/main/hardware"><img src="assets/leafspec-rgb-cad.webp" width="100%" alt="CAD view of the LeafStudio lightbox with a phone clamped on the lid"/></a>
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/CharlesWang435/LeafDocV2/tree/main/hardware">LeafStudio lightbox</a> <sub>(new, Nov 2026)</sub></h3>
-      The next-generation LeafDoc enclosure: a light-tight box with a diffused 15 × 15 cm LED window, a spring-loaded clamp handle and a push-push latch, so any phone gets identical distance, angle and lighting on every shot. Fusion CAD, print-ready STLs and build notes are open in the repo.
+      <h3><a href="https://github.com/CharlesWang435/LeafDocV2/tree/main/hardware">LeafStudio lightbox</a> <sub>(Proto 1, in build)</sub></h3>
+      The next-generation LeafDoc enclosure (formerly LeafSpec RGB): a light-tight box with a diffused 15 × 15 cm LED window, a spring-loaded clamp handle and a push-push latch, so any phone gets identical distance, angle and lighting on every shot. Fusion CAD, print-ready STLs and build notes are open in the repo.
       <br/><br/>
       <b>Repo:</b> <a href="https://github.com/CharlesWang435/LeafDocV2/tree/main/hardware">LeafDocV2/hardware</a>
     </td>
