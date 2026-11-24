@@ -48,7 +48,7 @@ Four leaf-imaging devices built so far. Looking for a role in hardware engineeri
   </tr>
   <tr>
     <td width="38%" valign="top">
-      <a href="https://github.com/CharlesWang435/LeafDocV2/tree/main/hardware"><img src="assets/leafspec-rgb-cad.webp" width="100%" alt="CAD view of the LeafStudio lightbox, closed, with a phone clamped on the lid"/></a>
+      <a href="https://github.com/CharlesWang435/LeafDocV2/tree/main/hardware"><img src="assets/leafstudio-cad.webp" width="100%" alt="CAD view of the LeafStudio lightbox, closed, with a phone clamped on the lid"/></a>
     </td>
     <td valign="top">
       <h3><a href="https://github.com/CharlesWang435/LeafDocV2/tree/main/hardware">LeafStudio lightbox</a> <sub>(Proto 1, in build)</sub></h3>
