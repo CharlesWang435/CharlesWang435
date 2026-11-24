@@ -20,41 +20,41 @@ Four leaf-imaging devices built so far. Looking for a role in hardware engineeri
 <table>
   <tr>
     <td width="38%" valign="top">
-      <a href="https://charleswang435.github.io/#microscope"><img src="assets/microscope-device.webp" width="100%" alt="Leaf cross-section microscope imager, prototype 1, with the 3D-printed clamp on a motorized linear rail"/></a>
+      <a href="https://github.com/CharlesWang435/LeafSpec-Cross-Sectional-Imager"><img src="assets/microscope-device.webp" width="100%" alt="Leaf cross-section microscope imager, prototype 1, with the 3D-printed clamp on a motorized linear rail"/></a>
     </td>
     <td valign="top">
-      <h3><a href="https://charleswang435.github.io/#microscope">Leaf Cross-Section Microscope Imager</a> <sub>(M.S. project, in progress)</sub></h3>
+      <h3><a href="https://github.com/CharlesWang435/LeafSpec-Cross-Sectional-Imager">Leaf Cross-Section Microscope Imager</a> <sub>(M.S. project, in progress)</sub></h3>
       A modular attachment for the LeafSpec confocal microscope that images a full corn-leaf cross section at 100×. A 3D-printed clamp on a motorized rail steps the cut leaf under the objective; a Raspberry Pi 5 web console gives live preview, motor control and autofocus. Prototype 2 swaps the mechanical focus for an <b>electrically tunable liquid lens</b> and a weight-balanced rack-and-pinion stage.
       <br/><br/>
       <b>Stack:</b> optics, liquid lens, motor control, Raspberry Pi, Flask, SolidWorks
       <br/>
-      <b>Write-up:</b> <a href="https://charleswang435.github.io/#microscope">portfolio</a> · code private while research is ongoing
+      <b>Repo:</b> <a href="https://github.com/CharlesWang435/LeafSpec-Cross-Sectional-Imager">CharlesWang435/LeafSpec-Cross-Sectional-Imager</a> (build log and photos) · <a href="https://charleswang435.github.io/#microscope">portfolio</a>
     </td>
   </tr>
   <tr>
     <td width="38%" valign="top">
-      <a href="https://github.com/CharlesWang435/LeafDocV2"><img src="assets/leafdoc-device.webp" width="100%" alt="LeafDoc handheld light box with a phone mounted, showing a gallery of corn leaf captures"/></a>
+      <a href="https://github.com/CharlesWang435/LeafDoc"><img src="assets/leafdoc-device.webp" width="100%" alt="LeafDoc handheld light box with a phone mounted, showing a gallery of corn leaf captures"/></a>
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/CharlesWang435/LeafDocV2">LeafDoc</a></h3>
+      <h3><a href="https://github.com/CharlesWang435/LeafDoc">LeafDoc</a></h3>
       A $50 smartphone lightbox, through seven printed enclosure revisions, that blocks ambient light and holds the leaf flat for repeatable backlit images. Used in a Purdue–DARPA study (<b>6,500+ captures</b>). The companion Android app (Kotlin, CameraX + Camera2) gives manual camera control, GPS and trial metadata, frame stitching, and LLM-based plant-health scoring.
       <br/><br/>
       <img src="assets/leafdoc-stitched.webp" width="100%" alt="Stitched backlit corn leaf panorama"/>
       <br/>
       <b>Stack:</b> SolidWorks, 3D printing, Kotlin, CameraX, image stitching
       <br/>
-      <b>Repo:</b> <a href="https://github.com/CharlesWang435/LeafDocV2">CharlesWang435/LeafDocV2</a>
+      <b>Repo:</b> <a href="https://github.com/CharlesWang435/LeafDoc">CharlesWang435/LeafDoc</a>
     </td>
   </tr>
   <tr>
     <td width="38%" valign="top">
-      <a href="https://github.com/CharlesWang435/LeafDocV2/tree/main/hardware"><img src="assets/leafstudio-cad.webp" width="100%" alt="CAD view of the LeafStudio lightbox, closed, with a phone clamped on the lid"/></a>
+      <a href="https://github.com/CharlesWang435/LeafDoc#next-the-leafstudio-lightbox"><img src="assets/leafstudio-cad.webp" width="100%" alt="CAD view of the LeafStudio lightbox, closed, with a phone clamped on the lid"/></a>
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/CharlesWang435/LeafDocV2/tree/main/hardware">LeafStudio lightbox</a> <sub>(Proto 1, in build)</sub></h3>
-      The next-generation LeafDoc enclosure (formerly LeafSpec RGB): a light-tight box with a diffused 15 × 15 cm LED window, a spring-loaded clamp handle and a push-push latch, so any phone gets identical distance, angle and lighting on every shot. Fusion CAD, print-ready STLs and build notes are open in the repo.
+      <h3><a href="https://github.com/CharlesWang435/LeafDoc#next-the-leafstudio-lightbox">LeafStudio lightbox</a> <sub>(Proto 1, in build)</sub></h3>
+      The next-generation LeafDoc enclosure (formerly LeafSpec RGB): a light-tight box with a diffused 15 × 15 cm LED window, a spring-loaded clamp handle and a push-push latch, so any phone gets identical distance, angle and lighting on every shot. Designed in Fusion and 3D-printed.
       <br/><br/>
-      <b>Repo:</b> <a href="https://github.com/CharlesWang435/LeafDocV2/tree/main/hardware">LeafDocV2/hardware</a>
+      <b>Repo:</b> <a href="https://github.com/CharlesWang435/LeafDoc#next-the-leafstudio-lightbox">CharlesWang435/LeafDoc</a>
     </td>
   </tr>
   <tr>
